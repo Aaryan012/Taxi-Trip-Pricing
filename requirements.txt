@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 joblib==1.5.1
 matplotlib==3.10.3
 notebook==7.4.1
@@ -7,3 +8,14 @@ scikit-learn==1.7.2
 seaborn==0.13.2
 streamlit==1.46.1
 
+=======
+joblib==1.5.1
+matplotlib==3.10.3
+notebook==7.4.1
+numpy==2.2.6
+pandas==2.2.3
+scikit-learn==1.7.2
+seaborn==0.13.2
+streamlit==1.46.1
+
+>>>>>>> 5ac49a8cacd8bac497c41924f0110600ad87f60f

@@ -29,5 +29,5 @@ A Streamlit app to predict taxi fares based on trip distance, time, day, traffic
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/taxi_price.git
+git clone https://github.com/Aaryan012/taxi_price.git
 cd taxi_price
